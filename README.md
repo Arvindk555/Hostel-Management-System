@@ -6,5 +6,5 @@ The purpose of this project is to develop a web-based Hostel Management System t
 
 
 
-#optput
+# output
 screenshots:- 
